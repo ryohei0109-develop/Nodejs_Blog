@@ -20,3 +20,4 @@ $npm install ejs
 $npm install express  
 $npm install express-session  
 $npm install mysql  
+$npm install bcrypt // 文字列暗号化パッケージ  
